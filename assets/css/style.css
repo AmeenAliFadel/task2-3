@@ -1,0 +1,212 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.sec
+{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec .div1
+{
+    width: 50%;
+    height: 80%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.sec .div1 .div121
+{
+    width: 80%;
+    height: 30%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(72, 72, 204);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div1 .div121 .div1231
+{
+    width: 30%;
+    height: 60%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(247, 64, 64);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div1 .div122
+{
+    width: 80%;
+    height: 30%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(72, 72, 204);
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div1 .div122 .div1232
+{
+    width: 30%;
+    height: 60%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(247, 64, 64);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div1 .div123
+{
+    width: 80%;
+    height: 30%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(72, 72, 204);
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div1 .div123 .div1233
+{
+    width: 30%;
+    height: 60%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(247, 64, 64);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div2
+{
+    width: 50%;
+    height: 80%;
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.sec .div2 .div221
+{
+    width: 30%;
+    height: 80%;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    border: 2px solid rgb(247, 64, 64);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div2 .div221 .div2231
+{
+    width: 60%;
+    height: 30%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(72, 72, 204);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div2 .div222
+{
+    width: 30%;
+    height: 80%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(247, 64, 64);
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div2 .div222 .div2232
+{
+    width: 60%;
+    height: 30%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(72, 72, 204);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div2 .div223
+{
+    width: 30%;
+    height: 80%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(247, 64, 64);
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sec .div2 .div223 .div2233
+{
+    width: 60%;
+    height: 30%;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid rgb(72, 72, 204);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
